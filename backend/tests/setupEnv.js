@@ -1,0 +1,12 @@
+process.env.NODE_ENV = 'test';
+process.env.PORT = '5001';
+process.env.JWT_ACCESS_SECRET = 'test_access_secret_super_secure_key_123456';
+process.env.JWT_REFRESH_SECRET = 'test_refresh_secret_super_secure_key_123456';
+process.env.ENCRYPTION_KEY = '0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef';
+process.env.PAYMOB_HMAC_SECRET = 'test_paymob_hmac_secret_key_123456';
+process.env.ENABLE_CRON = 'false';
+process.env.LOG_LEVEL = 'error';
+process.env.MONGOMS_SYSTEM_BINARY = 'C:\\Program Files\\MongoDB\\Server\\7.0\\bin\\mongod.exe';
+process.env.PAYMOB_CARD_INTEGRATION_ID = 'test_card_integration_123';
+process.env.PAYMOB_WALLET_INTEGRATION_ID = 'test_wallet_integration_123';
+process.env.PAYMOB_IFRAME_ID = 'test_iframe_123';

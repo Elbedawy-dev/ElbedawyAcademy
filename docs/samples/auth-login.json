@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Login successful",
+  "data": {
+    "user": {
+      "email": "admin@elbedawy-academy.com",
+      "address": {
+        "country": "Egypt",
+        "governorate": "Cairo",
+        "city": "Cairo"
+      },
+      "createdAt": "2026-10-22T17:47:04.320Z",
+      "dateOfBirth": "1985-01-01T00:00:00.000Z",
+      "deletedAt": null,
+      "gender": "male",
+      "isActive": true,
+      "isEmailVerified": true,
+      "language": "ar",
+      "name": "مدير الأكاديمية (Admin)",
+      "phone": "01000000001",
+      "role": "admin",
+      "timezone": "Africa/Cairo",
+      "updatedAt": "2026-10-22T17:50:20.455Z",
+      "lastLoginAt": "2026-10-22T17:50:20.441Z",
+      "age": 41,
+      "id": "6ada4c18d236fe1144758381"
+    },
+    "tokens": {
+      "accessToken": "REDACTED_ACCESS_TOKEN",
+      "refreshToken": "REDACTED_REFRESH_TOKEN",
+      "expiresIn": "15m"
+    }
+  }
+}

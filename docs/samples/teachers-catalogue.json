@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": [
+    {
+      "id": "6ada4c18d236fe1144758396",
+      "name": "الأستاذ محمود إبراهيم",
+      "avatar": null,
+      "gender": "male",
+      "country": "Egypt",
+      "city": "Giza",
+      "bio": "معلم لغة عربية وتربية إسلامية للمرحلة الابتدائية والإعدادية بالمنهج المصري.",
+      "specialties": [
+        "school"
+      ],
+      "subjects": [
+        {
+          "id": "6ada4c18d236fe1144758366",
+          "name": {
+            "ar": "اللغة العربية",
+            "en": "Arabic Language"
+          },
+          "type": "school"
+        }
+      ],
+      "yearsOfExperience": 10,
+      "ratingAvg": 4.9,
+      "ratingCount": 18
+    },
+    {
+      "id": "6ada4c18d236fe114475838d",
+      "name": "الشيخة فاطمة الزهراء",
+      "avatar": null,
+      "gender": "female",
+      "country": "Egypt",
+      "city": "Giza",
+      "bio": "مجازة برواية حفص عن عاصم، متخصصة في تحفيظ الفتيات والأطفال وتدريس متني التحفة والجزرية.",
+      "specialties": [
+        "quran",
+        "tajweed"
+      ],
+      "subjects": [
+        {
+          "id": "6ada4c18d236fe114475835f",
+          "name": {
+            "ar": "تحفيظ القرآن الكريم",
+            "en": "Quran Memorization"
+          },
+          "type": "quran"
+        },
+        {
+          "id": "6ada4c18d236fe1144758363",
+          "name": {
+            "ar": "متون التجويد (تحفة الأطفال والجزرية)",
+            "en": "Tajweed Texts"
+          },
+          "type": "tajweed_matn"
+        }
+      ],
+      "yearsOfExperience": 10,
+      "ratingAvg": 4.9,
+      "ratingCount": 18
+    },
+    {
+      "id": "6ada4c18d236fe1144758384",
+      "name": "الشيخ أحمد البديوي",
+      "avatar": null,
+      "gender": "male",
+      "country": "Egypt",
+      "city": "Giza",
+      "bio": "مجاز بالقراءات العشر الصغرى والكبرى، خبرة ١٥ عامًا في تحفيظ القرآن وإقراء المتون.",
+      "specialties": [
+        "quran",
+        "tajweed"
+      ],
+      "subjects": [
+        {
+          "id": "6ada4c18d236fe114475835f",
+          "name": {
+            "ar": "تحفيظ القرآن الكريم",
+            "en": "Quran Memorization"
+          },
+          "type": "quran"
+        },
+        {
+          "id": "6ada4c18d236fe1144758363",
+          "name": {
+            "ar": "متون التجويد (تحفة الأطفال والجزرية)",
+            "en": "Tajweed Texts"
+          },
+          "type": "tajweed_matn"
+        }
+      ],
+      "yearsOfExperience": 10,
+      "ratingAvg": 4.9,
+      "ratingCount": 18
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 12,
+    "total": 3,
+    "totalPages": 1
+  }
+}

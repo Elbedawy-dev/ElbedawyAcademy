@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": [
+    {
+      "enrollmentId": "6ada4c18d236fe11447583ee",
+      "status": "active",
+      "joinedAt": "2026-10-22T17:47:04.679Z",
+      "subscription": {
+        "status": "active",
+        "startDate": "2026-10-22T17:47:04.679Z",
+        "endDate": "2026-11-21T17:47:04.679Z",
+        "autoRenew": false
+      },
+      "student": {
+        "id": "6ada4c18d236fe11447583a1",
+        "name": "طالب مجتهد 1",
+        "avatar": null,
+        "gender": "male",
+        "role": "student",
+        "email": "student1@elbedawy-academy.com",
+        "phone": "01055555501",
+        "age": 14,
+        "dateOfBirth": "2012-02-10T00:00:00.000Z",
+        "address": {
+          "country": "Egypt",
+          "governorate": "Cairo",
+          "city": "Cairo"
+        },
+        "timezone": "Africa/Cairo"
+      }
+    },
+    {
+      "enrollmentId": "6ada4c18d236fe11447583f2",
+      "status": "active",
+      "joinedAt": "2026-10-22T17:47:04.691Z",
+      "subscription": {
+        "status": "active",
+        "startDate": "2026-10-22T17:47:04.691Z",
+        "endDate": "2026-11-21T17:47:04.691Z",
+        "autoRenew": false
+      },
+      "student": {
+        "id": "6ada4c18d236fe11447583aa",
+        "name": "طالب مجتهد 2",
+        "avatar": null,
+        "gender": "male",
+        "role": "student",
+        "email": "student2@elbedawy-academy.com",
+        "phone": "01055555502",
+        "age": 14,
+        "dateOfBirth": "2012-03-10T00:00:00.000Z",
+        "address": {
+          "country": "Egypt",
+          "governorate": "Cairo",
+          "city": "Cairo"
+        },
+        "timezone": "Africa/Cairo"
+      }
+    },
+    {
+      "enrollmentId": "6ada4c18d236fe11447583f6",
+      "status": "active",
+      "joinedAt": "2026-10-22T17:47:04.700Z",
+      "subscription": {
+        "status": "active",
+        "startDate": "2026-10-22T17:47:04.700Z",
+        "endDate": "2026-11-21T17:47:04.700Z",
+        "autoRenew": false
+      },
+      "student": {
+        "id": "6ada4c18d236fe11447583b3",
+        "name": "طالب مجتهد 3",
+        "avatar": null,
+        "gender": "male",
+        "role": "student",
+        "email": "student3@elbedawy-academy.com",
+        "phone": "01055555503",
+        "age": 14,
+        "dateOfBirth": "2012-04-10T00:00:00.000Z",
+        "address": {
+          "country": "Egypt",
+          "governorate": "Cairo",
+          "city": "Cairo"
+        },
+        "timezone": "Africa/Cairo"
+      }
+    },
+    {
+      "enrollmentId": "6ada4c18d236fe11447583fa",
+      "status": "active",
+      "joinedAt": "2026-10-22T17:47:04.707Z",
+      "subscription": {
+        "status": "active",
+        "startDate": "2026-10-22T17:47:04.707Z",
+        "endDate": "2026-11-21T17:47:04.707Z",
+        "autoRenew": false
+      },
+      "student": {
+        "id": "6ada4c18d236fe11447583bf",
+        "name": "طالب مجتهد 4",
+        "avatar": null,
+        "gender": "male",
+        "role": "student",
+        "email": "student4@elbedawy-academy.com",
+        "phone": "01055555504",
+        "age": 14,
+        "dateOfBirth": "2012-05-10T00:00:00.000Z",
+        "address": {
+          "country": "Egypt",
+          "governorate": "Cairo",
+          "city": "Cairo"
+        },
+        "timezone": "Africa/Cairo"
+      }
+    }
+  ]
+}

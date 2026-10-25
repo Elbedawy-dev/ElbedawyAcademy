@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "message": "Join request accepted. Awaiting student payment.",
+  "data": {
+    "requiresPayment": true,
+    "groupId": "6add1616080dd70acc10ac5d",
+    "studentId": "6ada4c18d236fe11447583aa",
+    "status": "awaiting_payment",
+    "enrollment": {
+      "group": {
+        "_id": "6add1616080dd70acc10ac5d",
+        "room": "6ada4c18d236fe114475838b",
+        "teacher": "6ada4c18d236fe1144758384",
+        "name": "حلقة التحفيظ المكثفة (بطلب انضمام)",
+        "subject": "6ada4c18d236fe114475835f",
+        "gradeLevel": "intermediate",
+        "genderType": "boys",
+        "maxStudents": 10,
+        "price": {
+          "amount": 450,
+          "currency": "EGP",
+          "billingCycle": "monthly"
+        },
+        "schedule": [
+          {
+            "dayOfWeek": 1,
+            "startTime": "17:00",
+            "endTime": "18:00",
+            "timezone": "Africa/Cairo"
+          }
+        ],
+        "status": "open",
+        "joinMode": "request",
+        "joinCode": "QURANREQ10",
+        "activeMembersCount": 0,
+        "mutedStudents": [],
+        "deletedAt": null,
+        "createdAt": "2026-10-24T20:33:26.922Z",
+        "updatedAt": "2026-10-24T20:33:26.922Z",
+        "id": "6add1616080dd70acc10ac5d"
+      },
+      "student": "6ada4c18d236fe11447583aa",
+      "status": "awaiting_payment",
+      "subscription": {
+        "status": "none",
+        "autoRenew": false
+      },
+      "createdAt": "2026-10-24T20:41:06.622Z",
+      "updatedAt": "2026-10-24T20:41:06.681Z",
+      "id": "6add17e2004ab5614e64c74f"
+    }
+  }
+}

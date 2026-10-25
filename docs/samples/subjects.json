@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": [
+    {
+      "id": "6ada4c18d236fe114475835f",
+      "name": {
+        "ar": "تحفيظ القرآن الكريم",
+        "en": "Quran Memorization"
+      },
+      "slug": "quran-hifz",
+      "type": "quran",
+      "gradeLevels": [
+        "all_ages",
+        "kids",
+        "adults",
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "order": 0
+    },
+    {
+      "id": "6ada4c18d236fe1144758363",
+      "name": {
+        "ar": "متون التجويد (تحفة الأطفال والجزرية)",
+        "en": "Tajweed Texts"
+      },
+      "slug": "tajweed-mutun",
+      "type": "tajweed_matn",
+      "gradeLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "order": 0
+    },
+    {
+      "id": "6ada4c18d236fe1144758366",
+      "name": {
+        "ar": "اللغة العربية",
+        "en": "Arabic Language"
+      },
+      "slug": "arabic-primary",
+      "type": "school",
+      "gradeLevels": [
+        "primary_4",
+        "primary_5",
+        "primary_6"
+      ],
+      "order": 0
+    }
+  ]
+}

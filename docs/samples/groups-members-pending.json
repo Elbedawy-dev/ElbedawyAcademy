@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": [
+    {
+      "enrollmentId": "6add17e2004ab5614e64c74f",
+      "status": "pending",
+      "subscription": {
+        "status": "none",
+        "autoRenew": false
+      },
+      "student": {
+        "id": "6ada4c18d236fe11447583aa",
+        "name": "طالب مجتهد 2",
+        "avatar": null,
+        "gender": "male",
+        "role": "student",
+        "email": "student2@elbedawy-academy.com",
+        "phone": "01055555502",
+        "age": 14,
+        "dateOfBirth": "2012-03-10T00:00:00.000Z",
+        "address": {
+          "country": "Egypt",
+          "governorate": "Cairo",
+          "city": "Cairo"
+        },
+        "timezone": "Africa/Cairo"
+      }
+    }
+  ]
+}
