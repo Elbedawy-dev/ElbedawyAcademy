@@ -1,9 +1,0 @@
-{
-  "success": false,
-  "message": "Cannot find GET /api/v1/progress/quran?studentId=6ada4c18d236fe11447583a1 on this server",
-  "error": {
-    "code": "NOT_FOUND",
-    "statusCode": 404
-  },
-  "stack": "AppError: Cannot find GET /api/v1/progress/quran?studentId=6ada4c18d236fe11447583a1 on this server\n    at AppError.notFound (file:///E:/Elbedawy%20Academy/backend/src/utils/AppError.js:51:12)\n    at file:///E:/Elbedawy%20Academy/backend/src/app.js:80:17\n    at Layer.handle [as handle_request] (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:145:7)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:145:7)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:145:7)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:145:7)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:145:7)\n    at next (E:\\Elbedawy Academy\\backend\\node_modules\\express\\lib\\router\\route.js:145:7)"
-}
